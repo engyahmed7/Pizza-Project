@@ -14,11 +14,11 @@ function About() {
         <h1> ABOUT US</h1>
         <p>
           {" "}
-          <h3>
+          <div>
             Pizza may have originated in Italy, but it’s found its spiritual
             home in the USA! And one of the best known of American innovations
             is the New York style pizza.
-          </h3>{" "}
+          </div>{" "}
         </p>
       </div>
     </div>
