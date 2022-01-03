@@ -35,3 +35,6 @@
   justify-content: center;
   transform: translateY(-40px);
 }
+.title {
+  font-size: 29px;
+}
